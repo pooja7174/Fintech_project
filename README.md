@@ -156,17 +156,28 @@ credit_history_years, num_open_accounts, delinquency_count
 
 ## 🔐 FinTech Use Cases
 Digital Lending Platforms
+
 NBFC Risk Analysis
+
 Banking Credit Assessment
+
 Loan Approval Automation
+
 AML & Fraud Monitoring
+
 Customer Risk Profiling
 
 ## 📈 Future Enhancements
 Deep Learning Models
+
 Real-time Transaction Monitoring
+
 API Integration
+
 Cloud Deployment
+
 Blockchain-based KYC
+
 Advanced Fraud Detection AI
+
 LSTM Risk Forecasting
