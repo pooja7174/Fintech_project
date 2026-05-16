@@ -5,7 +5,17 @@ FinGuard Analytics & Intelligence is an advanced FinTech AI platform built using
 The platform helps financial institutions analyze customer risk, detect fraud, perform KYC verification, and automate credit scoring processes.
 
 ## 🏠 Main Dashboard
-![Uploading Screenshot 2026-05-14 152556.png…]()
+<img width="1907" height="902" alt="Screenshot 2026-05-14 152556" src="https://github.com/user-attachments/assets/b9277b60-3f4e-405d-8083-7e22f6503ea5" />
+<img width="1918" height="817" alt="Screenshot 2026-05-14 152613" src="https://github.com/user-attachments/assets/3f991027-2e6c-4cbd-ad5f-bd8c972dd6fa" />
+<img width="1918" height="898" alt="Screenshot 2026-05-14 152633" src="https://github.com/user-attachments/assets/3e90da21-79f9-4bd9-a474-ed8ecc432278" />
+<img width="1918" height="883" alt="Screenshot 2026-05-14 152653" src="https://github.com/user-attachments/assets/f653ddfe-4e28-4c77-ab82-6f7588cf9a25" />
+<img width="1912" height="895" alt="Screenshot 2026-05-14 152728" src="https://github.com/user-attachments/assets/2ca50336-3141-4bbc-86a2-9f8fcc123ccb" />
+<img width="1918" height="906" alt="Screenshot 2026-05-14 152747" src="https://github.com/user-attachments/assets/9a363aa7-91e9-46fc-aab4-32b47cda27eb" />
+<img width="1918" height="897" alt="Screenshot 2026-05-14 152803" src="https://github.com/user-attachments/assets/66c66778-b595-4937-b750-871f081d442e" />
+<img width="1908" height="898" alt="Screenshot 2026-05-14 152818" src="https://github.com/user-attachments/assets/aab29b32-1c9a-4da1-8590-8a78830f0487" />
+<img width="1918" height="797" alt="Screenshot 2026-05-14 152908" src="https://github.com/user-attachments/assets/41957ecf-def4-4e41-a916-f15802f7f626" />
+<img width="1901" height="900" alt="Screenshot 2026-05-14 152937" src="https://github.com/user-attachments/assets/2359b5dd-b943-4acf-989a-b5c487aac076" />
+<img width="1915" height="911" alt="Screenshot 2026-05-14 152953" src="https://github.com/user-attachments/assets/6e6a14b9-e317-4dc8-9050-3e335d77b4c0" />
 
 This project was developed as part of a FinTech & Data Science team project focused on:
 
