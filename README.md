@@ -5,7 +5,7 @@ FinGuard Analytics & Intelligence is an advanced FinTech AI platform built using
 The platform helps financial institutions analyze customer risk, detect fraud, perform KYC verification, and automate credit scoring processes.
 
 ## 🏠 Main Dashboard
-![Dashboard]("C:\Users\DELL\OneDrive\Pictures\Desktop\mba\fintech\MODULE4\LendSmartAI\lendsmart_ai\PROJECT_SS\Screenshot 2026-05-14 152556.png")
+("C:\Users\DELL\OneDrive\Pictures\Desktop\mba\fintech\MODULE4\LendSmartAI\lendsmart_ai\PROJECT_SS\Screenshot 2026-05-14 152556.png")
 
 This project was developed as part of a FinTech & Data Science team project focused on:
 
