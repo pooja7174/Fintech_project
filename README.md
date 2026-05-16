@@ -1,6 +1,67 @@
-# 💳 LendSmart AI — Fintech Day 1 Project
+## FinGuard Analytics & Intelligence
+💳 AI-Powered Credit Risk, KYC & Fraud Detection Platform
 
-> **Financial EDA & Credit Scoring Engine | Know Your Customer Before You Lend**
+FinGuard Analytics & Intelligence is an advanced FinTech AI platform built using Python, Streamlit, Machine Learning, and Financial Analytics techniques.
+The platform helps financial institutions analyze customer risk, detect fraud, perform KYC verification, and automate credit scoring processes.
+
+This project was developed as part of a FinTech & Data Science team project focused on:
+
+Credit Risk Analysis
+Financial EDA
+Fraud Detection
+AI-Based Credit Scoring
+Risk & Compliance Monitoring
+Portfolio Analytics
+
+## 🚀 Features
+
+📊 Financial Analytics Dashboard
+Loan approval insights
+Income distribution analysis
+Credit risk visualization
+Interactive charts using Plotly
+
+🎯 AI Credit Scoring Engine
+Random Forest Machine Learning model
+Predicts customer default risk
+Automated credit profiling
+
+🛡️ Risk & Compliance Dashboard
+Financial risk monitoring
+Compliance analytics
+Risk distribution analysis
+
+🔍 Fraud Detection System
+Detect suspicious financial patterns
+Analyze fraudulent transactions
+Real-time fraud monitoring
+
+🪪 KYC Verification
+Customer verification workflow
+Identity validation system
+Customer onboarding checks
+
+📈 Batch Scoring
+Bulk customer credit scoring
+CSV upload support
+Automated prediction generation
+
+📋 Portfolio Reports
+Portfolio performance analytics
+Loan distribution reporting
+Risk segmentation
+
+🧠 Machine Learning Model
+
+The platform uses:
+
+Random Forest Classifier
+Scikit-learn
+Financial Risk Prediction Techniques
+Model Objectives
+Predict loan defaults
+Analyze borrower behavior
+Improve lending decisions
 
 ---
 
@@ -14,7 +75,7 @@ cd lendsmart_ai
 pip install -r requirements.txt
 
 # 3. Run the app
-streamlit run app.py
+streamlit run app1.py
 ```
 
 ---
@@ -93,21 +154,19 @@ credit_history_years, num_open_accounts, delinquency_count
 
 ---
 
-## ⚡ Day 1 Deliverables Checklist
+## 🔐 FinTech Use Cases
+Digital Lending Platforms
+NBFC Risk Analysis
+Banking Credit Assessment
+Loan Approval Automation
+AML & Fraud Monitoring
+Customer Risk Profiling
 
-- [x] Streamlit app running with modular structure
-- [x] Random Forest credit scoring model (>80% accuracy)
-- [x] EDA dashboard with 6+ interactive charts
-- [x] VaR & Expected Loss computation
-- [x] AML risk scoring engine
-- [x] Isolation Forest fraud detection
-- [x] K-Means customer segmentation
-- [x] KYC verification flow (YOLO + fallback)
-- [x] Individual credit profiling with gauge chart
-- [x] Batch CSV scoring pipeline
-- [x] PDF portfolio report generator
-- [x] Regulatory compliance checklist
-
----
-
-*LendSmart AI | Fintech Day 1 | Team Project*
+## 📈 Future Enhancements
+Deep Learning Models
+Real-time Transaction Monitoring
+API Integration
+Cloud Deployment
+Blockchain-based KYC
+Advanced Fraud Detection AI
+LSTM Risk Forecasting
